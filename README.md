@@ -1,0 +1,3 @@
+- Code is at Kotlin_test/src/main/java/  (intelliJ Path :( )
+- I wrote a simple program to test the function (main.tk). 
+- Because of issues with Json parsing of the exmaple input, I have changed creationDate in Order class from LocalDateTime to String (I'm parsing it back the method body...)
